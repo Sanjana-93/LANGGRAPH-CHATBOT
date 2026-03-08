@@ -6,6 +6,7 @@ This project demonstrates how to build and deploy LLM-based AI applications usin
 
 ✨ Live Demo:   https://langgraph-chatbot-5jnudgyimd9fvmryc2lds5.streamlit.app/
 
+
 ✨ Features:
 
 1. AI-powered conversational chatbot
@@ -16,6 +17,7 @@ This project demonstrates how to build and deploy LLM-based AI applications usin
 6. Real-time AI response generation
 7. Deployed on Streamlit Community Cloud
 
+
 ✨ Technologies Used:
 
 1. Python – Programming language used for development
@@ -25,6 +27,7 @@ This project demonstrates how to build and deploy LLM-based AI applications usin
 5. Streamlit – Framework used for building the web interface
 6. GitHub – Version control and project hosting
 
+
 ✨ Installation:
 
 1. Step 1: Clone the repository
@@ -33,10 +36,12 @@ This project demonstrates how to build and deploy LLM-based AI applications usin
 3. Step 2: Install dependencies
 4. pip install -r requirements.txt
 
+
 ✨ Running the Application:
 
 1. Run the Streamlit application using the following command:
 2. streamlit run streamlit_frontend_streaming.py
+
 
 ✨ How the Chatbot Works:
 
