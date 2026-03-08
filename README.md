@@ -18,30 +18,30 @@ This project demonstrates how to build and deploy LLM-based AI applications usin
 
 ✨ Technologies Used:
 
-• Python – Programming language used for development
-• LangChain – Framework for building LLM-based applications
-• LangGraph – Tool for building graph-based AI agent workflows
-• Google Gemini API – Large Language Model used for generating responses
-• Streamlit – Framework used for building the web interface
-• GitHub – Version control and project hosting
+1. Python – Programming language used for development
+2. LangChain – Framework for building LLM-based applications
+3. LangGraph – Tool for building graph-based AI agent workflows
+4. Google Gemini API – Large Language Model used for generating responses
+5. Streamlit – Framework used for building the web interface
+6. GitHub – Version control and project hosting
 
 ✨ Installation:
 
-• Step 1: Clone the repository
+1. Step 1: Clone the repository
   git clone https://github.com/your-username/langgraph-chatbot.git
-• cd langgraph-chatbot
-• Step 2: Install dependencies
-• pip install -r requirements.txt
+2. cd langgraph-chatbot
+3. Step 2: Install dependencies
+4. pip install -r requirements.txt
 
 ✨ Running the Application:
 
-• Run the Streamlit application using the following command:
-• streamlit run streamlit_frontend_streaming.py
+1. Run the Streamlit application using the following command:
+2. streamlit run streamlit_frontend_streaming.py
 
 ✨ How the Chatbot Works:
 
-• The user enters a message in the Streamlit chat interface.
-• The message is sent to the LangGraph chatbot workflow.
-• LangGraph processes the message using the Google Gemini language model.
-• The AI generates a response.
-• The response is displayed in the Streamlit chat interface.
+1. The user enters a message in the Streamlit chat interface.
+2. The message is sent to the LangGraph chatbot workflow.
+3. LangGraph processes the message using the Google Gemini language model.
+4. The AI generates a response.
+5. The response is displayed in the Streamlit chat interface.
