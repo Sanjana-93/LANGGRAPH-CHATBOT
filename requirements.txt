@@ -2,6 +2,9 @@
 streamlit
 langchain
 langgraph
+langgraph-checkpoint-sqlite
+langchain-google-genai
 openai
 python-dotenv
-langchain-google-genai
+
+
