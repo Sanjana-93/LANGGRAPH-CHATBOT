@@ -1,4 +1,5 @@
 import streamlit as st
+import time
 from langgraph_backend import chatbot
 from langchain_core.messages import HumanMessage
 
@@ -33,9 +34,13 @@ if user_input:
             config=CONFIG,
             stream_mode="messages",
         ):
-            full_response += message_chunk.content
+            if message_chunk.content:
+        for char in message_chunk.content:
+            full_response += char
             message_placeholder.markdown(full_response)
-
+            time.sleep(0.01)
+            
     st.session_state.message_history.append(
         {"role": "assistant", "content": full_response}
     )
+
