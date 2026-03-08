@@ -4,3 +4,4 @@ langchain
 langgraph
 openai
 python-dotenv
+langchain-google-genai
