@@ -3,20 +3,18 @@ LangGraph AI Chatbot
 An AI-powered conversational chatbot built using LangGraph, LangChain, Google Gemini API, and Streamlit.
 This project demonstrates how to build and deploy LLM-based AI applications using graph-based workflows. The chatbot allows users to interact with an AI assistant through a simple and interactive web interface.
 
-✨ Live Demo:
 
-You can try the chatbot using the link below:
-https://langgraph-chatbot-5jnudgyimd9fvmryc2lds5.streamlit.app/
+✨ Live Demo:   https://langgraph-chatbot-5jnudgyimd9fvmryc2lds5.streamlit.app/
 
 ✨ Features:
 
-• AI-powered conversational chatbot
-• Built using LangGraph workflow architecture
-• Integration with Google Gemini language model
-• Interactive chat interface using Streamlit
-• Session-based chat history
-• Real-time AI response generation
-• Deployed on Streamlit Community Cloud
+1. AI-powered conversational chatbot
+2. Built using LangGraph workflow architecture
+3. Integration with Google Gemini language model
+4. Interactive chat interface using Streamlit
+5. Session-based chat history
+6. Real-time AI response generation
+7. Deployed on Streamlit Community Cloud
 
 ✨ Technologies Used:
 
